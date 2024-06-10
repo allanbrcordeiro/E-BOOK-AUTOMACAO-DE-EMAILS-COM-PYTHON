@@ -1,3 +1,4 @@
+![capa para o redme ebook](https://github.com/allanbrcordeiro/EBOOK-AUTOMA-O-PYTHON/assets/157759682/f549bd42-c68d-48ab-b522-20a1c6926a76)
 # Domine Automação com Python :computer: :snake:
 
 ## 📒 Descrição
